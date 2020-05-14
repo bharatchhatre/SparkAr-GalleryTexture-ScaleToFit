@@ -1,0 +1,1 @@
+"# SparkAr-GalleryTexture-ScaleToFit" 
